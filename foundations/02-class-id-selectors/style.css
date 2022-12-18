@@ -1,0 +1,22 @@
+.ODD
+{
+background-color: rgb(238, 9, 123);
+font-family: "Veranda","DejaVU Sans", sans-serif;
+
+}
+.ODD.Third
+{
+font-size: 24px;
+}
+
+#Second
+{
+color: blue;
+font-size: 36px;
+}
+#Fourth
+{
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
